@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Princeway College Articles</title>
+    <link>https://www.princewaycollege.com/articles/</link>
+    <description>Practical guidance for families on learning, school choice, language, readiness and confidence.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://www.princewaycollege.com/articles/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Confidence Beyond the Classroom</title>
+      <link>https://www.princewaycollege.com/articles/building-confidence-beyond-the-classroom/</link>
+      <guid isPermaLink="true">https://www.princewaycollege.com/articles/building-confidence-beyond-the-classroom/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0530</pubDate>
+      <description>How families and schools can build lasting confidence through communication, responsibility, participation, belonging and real-world experience.</description>
+    </item>
+    <item>
+      <title>Questions to Ask Before Primary-School Enrolment</title>
+      <link>https://www.princewaycollege.com/articles/questions-to-ask-before-primary-school-enrolment/</link>
+      <guid isPermaLink="true">https://www.princewaycollege.com/articles/questions-to-ask-before-primary-school-enrolment/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0530</pubDate>
+      <description>A practical list of questions for parents to ask before primary-school enrolment, covering teaching, wellbeing, communication, fees, travel and admissions.</description>
+    </item>
+    <item>
+      <title>Helping Children Speak English with Confidence</title>
+      <link>https://www.princewaycollege.com/articles/helping-children-speak-english-with-confidence/</link>
+      <guid isPermaLink="true">https://www.princewaycollege.com/articles/helping-children-speak-english-with-confidence/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0530</pubDate>
+      <description>Practical ways parents can help children speak English with confidence through conversation, stories, play, useful feedback and low-pressure practice.</description>
+    </item>
+    <item>
+      <title>National Curriculum in English Medium: A Parent’s Guide</title>
+      <link>https://www.princewaycollege.com/articles/national-curriculum-in-english-medium/</link>
+      <guid isPermaLink="true">https://www.princewaycollege.com/articles/national-curriculum-in-english-medium/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0530</pubDate>
+      <description>A parent-friendly explanation of learning Sri Lanka’s national curriculum in English medium, including understanding, vocabulary, home support and progress.</description>
+    </item>
+    <item>
+      <title>Kindergarten-Readiness Checklist for Sri Lankan Families</title>
+      <link>https://www.princewaycollege.com/articles/kindergarten-readiness-checklist-sri-lankan-families/</link>
+      <guid isPermaLink="true">https://www.princewaycollege.com/articles/kindergarten-readiness-checklist-sri-lankan-families/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0530</pubDate>
+      <description>A practical kindergarten-readiness checklist for Sri Lankan families covering independence, communication, routines, play, early literacy and emotional preparation.</description>
+    </item>
+    <item>
+      <title>How to Choose an English-Medium School in Athurugiriya</title>
+      <link>https://www.princewaycollege.com/articles/choosing-an-english-medium-school-in-athurugiriya/</link>
+      <guid isPermaLink="true">https://www.princewaycollege.com/articles/choosing-an-english-medium-school-in-athurugiriya/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0530</pubDate>
+      <description>A practical guide for parents choosing an English-medium kindergarten or primary school in Athurugiriya, including learning, care, communication and travel.</description>
+    </item>
+  </channel>
+</rss>

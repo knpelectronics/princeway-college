@@ -24,4 +24,46 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.princewaycollege.com/articles/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.princewaycollege.com/articles/choosing-an-english-medium-school-in-athurugiriya/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.princewaycollege.com/articles/kindergarten-readiness-checklist-sri-lankan-families/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.princewaycollege.com/articles/national-curriculum-in-english-medium/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.princewaycollege.com/articles/helping-children-speak-english-with-confidence/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.princewaycollege.com/articles/questions-to-ask-before-primary-school-enrolment/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.princewaycollege.com/articles/building-confidence-beyond-the-classroom/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
